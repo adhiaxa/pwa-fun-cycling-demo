@@ -54,9 +54,6 @@ THE SOFTWARE.
 @angular/common
 MIT
 
-@angular/compiler
-MIT
-
 @angular/core
 MIT
 
@@ -139,9 +136,6 @@ THE SOFTWARE.
 
 
 @angular/platform-browser
-MIT
-
-@angular/platform-browser-dynamic
 MIT
 
 @angular/router
@@ -994,6 +988,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
+ngx-wheel
 
 perfect-scrollbar
 MIT
